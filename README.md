@@ -1,0 +1,1 @@
+ project for predicting the next word in a sequence using Long Short-Term Memory (LSTM) networks. LSTMs are a type of recurrent neural network (RNN) that excels in learning long-term dependencies in sequential data. In this project, we train an LSTM model to generate the most likely next word given a sequence of previous words, leveraging a dataset of text for training.
